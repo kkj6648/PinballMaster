@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 3ae9e266ca956b941ad0b80337a383a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 122725830887957211
+    second: FireEffect_0
+  - first:
+      213: -6080390145526968742
+    second: FireEffect_1
+  - first:
+      213: 655182999941543672
+    second: FireEffect_2
+  - first:
+      213: 1451549667625619114
+    second: FireEffect_3
+  - first:
+      213: -821016489960860782
+    second: FireEffect_4
+  - first:
+      213: -5163598592811081811
+    second: FireEffect_5
+  - first:
+      213: 5653304303529087701
+    second: FireEffect_6
+  - first:
+      213: 7227998155019755095
+    second: FireEffect_7
+  - first:
+      213: -1194833140984126544
+    second: FireEffect_8
+  - first:
+      213: 8057824523325093379
+    second: FireEffect_9
+  - first:
+      213: 5559622483545570499
+    second: FireEffect_10
+  - first:
+      213: 3641779736290116076
+    second: FireEffect_11
+  - first:
+      213: 1592264265272061861
+    second: FireEffect_12
+  - first:
+      213: -6958233032469087184
+    second: FireEffect_13
+  - first:
+      213: -7613436476558010094
+    second: FireEffect_14
+  - first:
+      213: -3133889007802628865
+    second: FireEffect_15
+  - first:
+      213: 1999466128647147214
+    second: FireEffect_16
+  - first:
+      213: 4683381378619326083
+    second: FireEffect_17
+  - first:
+      213: -4257802114869221431
+    second: FireEffect_18
+  - first:
+      213: -1607517855660861116
+    second: FireEffect_19
+  - first:
+      213: 4461320243034268682
+    second: FireEffect_20
+  - first:
+      213: -357956241943036317
+    second: FireEffect_21
+  - first:
+      213: -892852739374208766
+    second: FireEffect_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireEffect_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 694
+        width: 290
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd267d23e7204b100800000000000000
+      internalID: 122725830887957211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEffect_3
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 694
+        width: 242
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae49a86bb0f42410800000000000000
+      internalID: 1451549667625619114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEffect_4
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 693
+        width: 236
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29315213ad92b94f0800000000000000
+      internalID: -821016489960860782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEffect_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 693
+        width: 242
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3e6c9b6991b6fe0800000000000000
+      internalID: -1194833140984126544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEffect_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 300
+        width: 242
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1c9cb00633a8230800000000000000
+      internalID: 3641779736290116076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEffect_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 298
+        width: 242
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece4072b9d78fbb10800000000000000
+      internalID: 1999466128647147214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEffect_21
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 297
+        width: 242
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ef9d9c1b8480bf0800000000000000
+      internalID: -357956241943036317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEffect_22
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 298
+        width: 237
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209add00a23fb93f0800000000000000
+      internalID: -892852739374208766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 07ba18964ed3d504cade2acdf7502d83
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireEffect_0: 122725830887957211
+      FireEffect_1: -6080390145526968742
+      FireEffect_10: 5559622483545570499
+      FireEffect_11: 3641779736290116076
+      FireEffect_12: 1592264265272061861
+      FireEffect_13: -6958233032469087184
+      FireEffect_14: -7613436476558010094
+      FireEffect_15: -3133889007802628865
+      FireEffect_16: 1999466128647147214
+      FireEffect_17: 4683381378619326083
+      FireEffect_18: -4257802114869221431
+      FireEffect_19: -1607517855660861116
+      FireEffect_2: 655182999941543672
+      FireEffect_20: 4461320243034268682
+      FireEffect_21: -357956241943036317
+      FireEffect_22: -892852739374208766
+      FireEffect_3: 1451549667625619114
+      FireEffect_4: -821016489960860782
+      FireEffect_5: -5163598592811081811
+      FireEffect_6: 5653304303529087701
+      FireEffect_7: 7227998155019755095
+      FireEffect_8: -1194833140984126544
+      FireEffect_9: 8057824523325093379
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

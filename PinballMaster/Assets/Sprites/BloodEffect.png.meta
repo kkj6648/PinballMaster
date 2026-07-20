@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: 0bfcfbe918c3a964bad4c32d0e3070c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1734320689928235968
+    second: BloodEffect_0
+  - first:
+      213: -8875189012816492520
+    second: BloodEffect_1
+  - first:
+      213: 7228631525748936017
+    second: BloodEffect_2
+  - first:
+      213: -2757237869460181581
+    second: BloodEffect_3
+  - first:
+      213: -228326324616204210
+    second: BloodEffect_4
+  - first:
+      213: 8497403174052090491
+    second: BloodEffect_5
+  - first:
+      213: -3998438342723584634
+    second: BloodEffect_6
+  - first:
+      213: -7541850853189336606
+    second: BloodEffect_7
+  - first:
+      213: -8813367661294100098
+    second: BloodEffect_8
+  - first:
+      213: -5724090553475677802
+    second: BloodEffect_9
+  - first:
+      213: -8608322753946959434
+    second: BloodEffect_10
+  - first:
+      213: 5407838282249055102
+    second: BloodEffect_11
+  - first:
+      213: 4600272709737652078
+    second: BloodEffect_12
+  - first:
+      213: 1166936846849052264
+    second: BloodEffect_13
+  - first:
+      213: 7966128491502103229
+    second: BloodEffect_14
+  - first:
+      213: -6588642946250633143
+    second: BloodEffect_15
+  - first:
+      213: -4529508829110779023
+    second: BloodEffect_16
+  - first:
+      213: -3875400040709810869
+    second: BloodEffect_17
+  - first:
+      213: 4871212219801977649
+    second: BloodEffect_18
+  - first:
+      213: -241332660055637692
+    second: BloodEffect_19
+  - first:
+      213: -440347686860771144
+    second: BloodEffect_20
+  - first:
+      213: 1044542052946692924
+    second: BloodEffect_21
+  - first:
+      213: 5710431634084182698
+    second: BloodEffect_22
+  - first:
+      213: 1798621540250209735
+    second: BloodEffect_23
+  - first:
+      213: 974901993809185216
+    second: BloodEffect_24
+  - first:
+      213: 6664262838196382845
+    second: BloodEffect_25
+  - first:
+      213: -7546048539901149065
+    second: BloodEffect_26
+  - first:
+      213: 795924046554805810
+    second: BloodEffect_27
+  - first:
+      213: -6660094265238090575
+    second: BloodEffect_28
+  - first:
+      213: 2866884402955102169
+    second: BloodEffect_29
+  - first:
+      213: -3908491518763629089
+    second: BloodEffect_30
+  - first:
+      213: 8746345590002684532
+    second: BloodEffect_31
+  - first:
+      213: -2923557943108324160
+    second: BloodEffect_32
+  - first:
+      213: -7407811616014713952
+    second: BloodEffect_33
+  - first:
+      213: 4699859255243357690
+    second: BloodEffect_34
+  - first:
+      213: -3734348316044399958
+    second: BloodEffect_35
+  - first:
+      213: -1128224258242553819
+    second: BloodEffect_36
+  - first:
+      213: 6772523397196716584
+    second: BloodEffect_37
+  - first:
+      213: -8356837802623979140
+    second: BloodEffect_38
+  - first:
+      213: 3297146072375144367
+    second: BloodEffect_39
+  - first:
+      213: -4422444421509422518
+    second: BloodEffect_40
+  - first:
+      213: 1670921237331272028
+    second: BloodEffect_41
+  - first:
+      213: -2576629068140972584
+    second: BloodEffect_42
+  - first:
+      213: -4860650377915467867
+    second: BloodEffect_43
+  - first:
+      213: 6443404618201293347
+    second: BloodEffect_44
+  - first:
+      213: -4817011701790974125
+    second: BloodEffect_45
+  - first:
+      213: -7852152861855510538
+    second: BloodEffect_46
+  - first:
+      213: 3141402269332875650
+    second: BloodEffect_47
+  - first:
+      213: -6994387430068080992
+    second: BloodEffect_48
+  - first:
+      213: 5121555156385222425
+    second: BloodEffect_49
+  - first:
+      213: -5000241898197768940
+    second: BloodEffect_50
+  - first:
+      213: 5614713016276032477
+    second: BloodEffect_51
+  - first:
+      213: -1451077667206520981
+    second: BloodEffect_52
+  - first:
+      213: -2222730742573141405
+    second: BloodEffect_53
+  - first:
+      213: 33340578058235441
+    second: BloodEffect_54
+  - first:
+      213: -6162816594439096704
+    second: BloodEffect_55
+  - first:
+      213: -5199905915498323750
+    second: BloodEffect_56
+  - first:
+      213: 3284900356246298967
+    second: BloodEffect_57
+  - first:
+      213: 8933230748716672156
+    second: BloodEffect_58
+  - first:
+      213: -2174593685277194827
+    second: BloodEffect_59
+  - first:
+      213: 5018995082770897056
+    second: BloodEffect_60
+  - first:
+      213: -3620183753142835833
+    second: BloodEffect_61
+  - first:
+      213: 3950713188005881096
+    second: BloodEffect_62
+  - first:
+      213: 6283168402255087032
+    second: BloodEffect_63
+  - first:
+      213: 8239267285395694917
+    second: BloodEffect_64
+  - first:
+      213: 597404743115166293
+    second: BloodEffect_65
+  - first:
+      213: 4619658371235309030
+    second: BloodEffect_66
+  - first:
+      213: 5659782301566796444
+    second: BloodEffect_67
+  - first:
+      213: -4316831053300694367
+    second: BloodEffect_68
+  - first:
+      213: -2180708571106181305
+    second: BloodEffect_69
+  - first:
+      213: 5908789336024188601
+    second: BloodEffect_70
+  - first:
+      213: -548781180761277799
+    second: BloodEffect_71
+  - first:
+      213: 4314333322642952035
+    second: BloodEffect_72
+  - first:
+      213: -9149061826048386710
+    second: BloodEffect_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BloodEffect_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 711
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044973675847ee7e0800000000000000
+      internalID: -1734320689928235968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodEffect_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 678
+        width: 156
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8188f989d9ef4d480800000000000000
+      internalID: -8875189012816492520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodEffect_2
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 646
+        width: 244
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d8470e212415460800000000000000
+      internalID: 7228631525748936017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodEffect_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 144
+        width: 236
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd229524c25cb9d0800000000000000
+      internalID: -2757237869460181581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodEffect_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 151
+        width: 257
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e407160ea62d4dcf0800000000000000
+      internalID: -228326324616204210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodEffect_5
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 148
+        width: 280
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72d6a66a27dce570800000000000000
+      internalID: 8497403174052090491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodEffect_6
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 152
+        width: 280
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68db8ad0381b288c0800000000000000
+      internalID: -3998438342723584634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a2d890a745b13a749aa28e1ec147fa65
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BloodEffect_0: -1734320689928235968
+      BloodEffect_1: -8875189012816492520
+      BloodEffect_10: -8608322753946959434
+      BloodEffect_11: 5407838282249055102
+      BloodEffect_12: 4600272709737652078
+      BloodEffect_13: 1166936846849052264
+      BloodEffect_14: 7966128491502103229
+      BloodEffect_15: -6588642946250633143
+      BloodEffect_16: -4529508829110779023
+      BloodEffect_17: -3875400040709810869
+      BloodEffect_18: 4871212219801977649
+      BloodEffect_19: -241332660055637692
+      BloodEffect_2: 7228631525748936017
+      BloodEffect_20: -440347686860771144
+      BloodEffect_21: 1044542052946692924
+      BloodEffect_22: 5710431634084182698
+      BloodEffect_23: 1798621540250209735
+      BloodEffect_24: 974901993809185216
+      BloodEffect_25: 6664262838196382845
+      BloodEffect_26: -7546048539901149065
+      BloodEffect_27: 795924046554805810
+      BloodEffect_28: -6660094265238090575
+      BloodEffect_29: 2866884402955102169
+      BloodEffect_3: -2757237869460181581
+      BloodEffect_30: -3908491518763629089
+      BloodEffect_31: 8746345590002684532
+      BloodEffect_32: -2923557943108324160
+      BloodEffect_33: -7407811616014713952
+      BloodEffect_34: 4699859255243357690
+      BloodEffect_35: -3734348316044399958
+      BloodEffect_36: -1128224258242553819
+      BloodEffect_37: 6772523397196716584
+      BloodEffect_38: -8356837802623979140
+      BloodEffect_39: 3297146072375144367
+      BloodEffect_4: -228326324616204210
+      BloodEffect_40: -4422444421509422518
+      BloodEffect_41: 1670921237331272028
+      BloodEffect_42: -2576629068140972584
+      BloodEffect_43: -4860650377915467867
+      BloodEffect_44: 6443404618201293347
+      BloodEffect_45: -4817011701790974125
+      BloodEffect_46: -7852152861855510538
+      BloodEffect_47: 3141402269332875650
+      BloodEffect_48: -6994387430068080992
+      BloodEffect_49: 5121555156385222425
+      BloodEffect_5: 8497403174052090491
+      BloodEffect_50: -5000241898197768940
+      BloodEffect_51: 5614713016276032477
+      BloodEffect_52: -1451077667206520981
+      BloodEffect_53: -2222730742573141405
+      BloodEffect_54: 33340578058235441
+      BloodEffect_55: -6162816594439096704
+      BloodEffect_56: -5199905915498323750
+      BloodEffect_57: 3284900356246298967
+      BloodEffect_58: 8933230748716672156
+      BloodEffect_59: -2174593685277194827
+      BloodEffect_6: -3998438342723584634
+      BloodEffect_60: 5018995082770897056
+      BloodEffect_61: -3620183753142835833
+      BloodEffect_62: 3950713188005881096
+      BloodEffect_63: 6283168402255087032
+      BloodEffect_64: 8239267285395694917
+      BloodEffect_65: 597404743115166293
+      BloodEffect_66: 4619658371235309030
+      BloodEffect_67: 5659782301566796444
+      BloodEffect_68: -4316831053300694367
+      BloodEffect_69: -2180708571106181305
+      BloodEffect_7: -7541850853189336606
+      BloodEffect_70: 5908789336024188601
+      BloodEffect_71: -548781180761277799
+      BloodEffect_72: 4314333322642952035
+      BloodEffect_73: -9149061826048386710
+      BloodEffect_8: -8813367661294100098
+      BloodEffect_9: -5724090553475677802
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

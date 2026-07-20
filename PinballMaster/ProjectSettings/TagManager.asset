@@ -2,22 +2,29 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Wall
+  - Ball
+  - Enemy
+  - ReturnWall
+  - ArriveZone
+  - Effect
+  - Projectile
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ball
+  - Enemy
+  - Wall
+  - ArriveZone
+  - ReturnWall
+  - Effect
+  - Projectile
   - 
   - 
   - 
@@ -38,6 +45,26 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1723555911
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Enemy
+    uniqueID: 1809665621
+    locked: 0
+  - name: Ball
+    uniqueID: 2580841255
+    locked: 0
+  - name: Aim
+    uniqueID: 377314287
+    locked: 0
+  - name: Player
+    uniqueID: 3011874299
+    locked: 0
+  - name: Effect
+    uniqueID: 3502313939
+    locked: 0
+  m_RenderingLayers:
+  - Default

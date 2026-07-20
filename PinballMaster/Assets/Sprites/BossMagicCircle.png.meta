@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 2c0f73e77b86eef4dbcbd8a5ec58ad85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7298876075163470134
+    second: BossMagicCircle_0
+  - first:
+      213: 5835611766836689495
+    second: BossMagicCircle_1
+  - first:
+      213: 330090998984367806
+    second: BossMagicCircle_2
+  - first:
+      213: 5313976312244055932
+    second: BossMagicCircle_3
+  - first:
+      213: 5079082753516377640
+    second: BossMagicCircle_4
+  - first:
+      213: -9217274734988696686
+    second: BossMagicCircle_5
+  - first:
+      213: 3557020629978498282
+    second: BossMagicCircle_6
+  - first:
+      213: -8421483171232750993
+    second: BossMagicCircle_7
+  - first:
+      213: -6143088643003070303
+    second: BossMagicCircle_8
+  - first:
+      213: 7153563598734216388
+    second: BossMagicCircle_9
+  - first:
+      213: 4349686083755764053
+    second: BossMagicCircle_10
+  - first:
+      213: -5877722338039435533
+    second: BossMagicCircle_11
+  - first:
+      213: -1297900084800291118
+    second: BossMagicCircle_12
+  - first:
+      213: 3119315912287675047
+    second: BossMagicCircle_13
+  - first:
+      213: -8282542208816955965
+    second: BossMagicCircle_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossMagicCircle_0
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 706
+        width: 300
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63947b78e11da4560800000000000000
+      internalID: 7298876075163470134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMagicCircle_1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 705
+        width: 322
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75af369cbf14cf050800000000000000
+      internalID: 5835611766836689495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMagicCircle_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 761
+        width: 213
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fa5242d490fb940800000000000000
+      internalID: 5313976312244055932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMagicCircle_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 730
+        width: 281
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293e0d7b679a51080800000000000000
+      internalID: -9217274734988696686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMagicCircle_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 310
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559e8b292703d5c30800000000000000
+      internalID: 4349686083755764053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMagicCircle_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 240
+        width: 302
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fee7c0dca22e6ea0800000000000000
+      internalID: -5877722338039435533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMagicCircle_13
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 238
+        width: 295
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2612e9b490a4b20800000000000000
+      internalID: 3119315912287675047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossMagicCircle_14
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 236
+        width: 298
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd394e6ebf7e0d80800000000000000
+      internalID: -8282542208816955965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fb586848231efcd4aa24fd9e6b712f89
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossMagicCircle_0: 7298876075163470134
+      BossMagicCircle_1: 5835611766836689495
+      BossMagicCircle_10: 4349686083755764053
+      BossMagicCircle_11: -5877722338039435533
+      BossMagicCircle_12: -1297900084800291118
+      BossMagicCircle_13: 3119315912287675047
+      BossMagicCircle_14: -8282542208816955965
+      BossMagicCircle_2: 330090998984367806
+      BossMagicCircle_3: 5313976312244055932
+      BossMagicCircle_4: 5079082753516377640
+      BossMagicCircle_5: -9217274734988696686
+      BossMagicCircle_6: 3557020629978498282
+      BossMagicCircle_7: -8421483171232750993
+      BossMagicCircle_8: -6143088643003070303
+      BossMagicCircle_9: 7153563598734216388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

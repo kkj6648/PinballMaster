@@ -1,0 +1,4597 @@
+{
+  "gridWidth": 9,
+  "initialSpawnRows": 6,
+  "waves": [
+    {
+      "waveId": 1,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 2
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": []
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "spawns": []
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": []
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 2,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 2,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 5,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 2
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": []
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": []
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": []
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 3,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 1,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 6,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 0,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 3,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 5,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 8,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 2
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": []
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": []
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": []
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 4,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 0,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 8,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 4,
+          "gridY": 4
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": []
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 5,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": []
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 5,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "r",
+          "sizeType": "Size_2x2",
+          "gridX": 2,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "r",
+          "sizeType": "Size_2x2",
+          "gridX": 5,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 4
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": []
+        },
+        {
+          "line": 2,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "spawns": []
+        },
+        {
+          "line": 4,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "r",
+              "sizeType": "Size_2x2",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 6,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 0,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 2,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 6,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 7,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 0,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 8,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 3
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": []
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 4,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 5,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": []
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 7,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 1,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 6,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 3,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 5,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 4
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": []
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": []
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 8,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 0,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 2,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 4,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 6,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 8,
+          "gridY": 2
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": []
+        },
+        {
+          "line": 2,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 5,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": []
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 9,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 2,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 6,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 0,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 2,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 5,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 7,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 3
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": []
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 4,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": []
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 10,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "r",
+          "sizeType": "Size_2x2",
+          "gridX": 1,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "r",
+          "sizeType": "Size_2x2",
+          "gridX": 6,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 0,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 1,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 7,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 3,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 5,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 4
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 5,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": []
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "r",
+              "sizeType": "Size_2x2",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 11,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 0,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 2,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 6,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 7,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 3,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 5,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 4
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 5,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "spawns": []
+        },
+        {
+          "line": 4,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 12,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 1,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 7,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 1,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 7,
+          "gridY": 4
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "spawns": []
+        },
+        {
+          "line": 4,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 0,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 13,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 0,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 3,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 7,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 4,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 3,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 5,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 3
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": []
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 14,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 3,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 4,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 5,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 5
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 5
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 5
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 5
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 3,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "spawns": []
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 5,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 15,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 2,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 6,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 0,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 7,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "r",
+          "sizeType": "Size_2x2",
+          "gridX": 1,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "r",
+          "sizeType": "Size_2x2",
+          "gridX": 6,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 3
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 5,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": []
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": []
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "r",
+              "sizeType": "Size_2x2",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "r",
+              "sizeType": "Size_2x2",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": []
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 16,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 0,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 3,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 5,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 7,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 1,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 6,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 4
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": []
+        },
+        {
+          "line": 2,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "spawns": []
+        },
+        {
+          "line": 4,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "spawns": []
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 3,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 17,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 0,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 2,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 6,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 8,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 4
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": []
+        },
+        {
+          "line": 2,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 3,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 18,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 1,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 6,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 1,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 2,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 5,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 7,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 2,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 6,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 5
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 5
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 5
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 5
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": []
+        },
+        {
+          "line": 2,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 3,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 19,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 0,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 8,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 1,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 6,
+          "gridY": 1
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 0,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 2,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 6,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 7,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 1,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 2,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 6,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 7,
+          "gridY": 4
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 4
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "spawns": []
+        },
+        {
+          "line": 4,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 8,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    },
+    {
+      "waveId": 20,
+      "waveName": "wavename",
+      "initialSpawns": [
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 0,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "r",
+          "sizeType": "Size_2x2",
+          "gridX": 2,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "r",
+          "sizeType": "Size_2x2",
+          "gridX": 5,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "g",
+          "sizeType": "Size_1x2",
+          "gridX": 8,
+          "gridY": 0
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 1,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "o",
+          "sizeType": "Size_2x1",
+          "gridX": 6,
+          "gridY": 2
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 0,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "r",
+          "sizeType": "Size_2x2",
+          "gridX": 1,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "r",
+          "sizeType": "Size_2x2",
+          "gridX": 6,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "p",
+          "sizeType": "Size_1x1",
+          "gridX": 8,
+          "gridY": 3
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 3,
+          "gridY": 5
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 4,
+          "gridY": 5
+        },
+        {
+          "enemyCode": "b",
+          "sizeType": "Size_1x1",
+          "gridX": 5,
+          "gridY": 5
+        }
+      ],
+      "nextWaveDelay": 6.0,
+      "updateLines": [
+        {
+          "line": 1,
+          "spawns": [
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 1,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 2,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 3,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 5,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 3,
+          "spawns": [
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 4,
+          "spawns": [
+            {
+              "enemyCode": "r",
+              "sizeType": "Size_2x2",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "b",
+              "sizeType": "Size_1x1",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 4,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "p",
+              "sizeType": "Size_1x1",
+              "gridX": 6,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "r",
+              "sizeType": "Size_2x2",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 5,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 1,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 6,
+          "spawns": [
+            {
+              "enemyCode": "o",
+              "sizeType": "Size_2x1",
+              "gridX": 7,
+              "gridY": 0
+            }
+          ]
+        },
+        {
+          "line": 7,
+          "spawns": [
+            {
+              "enemyCode": "g",
+              "sizeType": "Size_1x2",
+              "gridX": 0,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "r",
+              "sizeType": "Size_2x2",
+              "gridX": 2,
+              "gridY": 0
+            },
+            {
+              "enemyCode": "r",
+              "sizeType": "Size_2x2",
+              "gridX": 5,
+              "gridY": 0
+            }
+          ]
+        }
+      ],
+      "updateLineInterval": 4.0
+    }
+  ]
+}
